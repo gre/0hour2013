@@ -1,0 +1,8 @@
+{
+  "name": "0hour2013",
+  "version": "0.0.0",
+  "dependencies": {
+    "glsl.js": "master"
+  }
+}
+
