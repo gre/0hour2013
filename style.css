@@ -1,4 +1,25 @@
 html {
   background: #333;
+  color: #999;
+}
+
+a {
+  color: #ccc;
+}
+
+#wrapper {
+  width: 400px;
+  margin: 10px auto;
+}
+#score {
+  width: 400px;
+  height: 300px;
+  font-size: 4em;
+  font-family: sans-serif;
+  font-weight: bold;
   color: #fff;
+  text-align: center;
+  background: #000;
+}
+#finalscore {
 }

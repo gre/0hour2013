@@ -52,7 +52,7 @@ module.exports = function(grunt) {
       },
 
       js: {
-        files: '<%= browserify.all.src %>',
+        files: ['app.js', '*.js'],
         tasks: ['browserify']
       },
 
